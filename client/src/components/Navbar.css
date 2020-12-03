@@ -1,0 +1,21 @@
+.nav_wrapper {
+    position: fixed;
+    top: 0;
+  }
+  
+  .dp_pic {
+    margin-top: 14.5px;
+  }
+  .brand-logo:hover {
+    transition: transform 0.5s ease;
+    color: black;
+  }
+  
+  .navbar-fixed {
+    position: fixed;
+    top: 0;
+  }
+  .nav_lists {
+    align-content: space-between;
+  }
+  
